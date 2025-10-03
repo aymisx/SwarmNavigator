@@ -117,7 +117,7 @@ SwarmNavigator/
 Robotics & Reinforcement Learning Engineer  
 Arizona State University  
 [Linkedin: Ayushman Mishra](https://linkedin.com/in/aymisx)  
-[GitHub: agnizero](https://github.com/aymisx)  
+[GitHub: aymisx](https://github.com/aymisx)  
 Email (University): [amish141@asu.edu]  
 Email (Personal): [4yxmi0@gmail.com]
 
