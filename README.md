@@ -65,7 +65,7 @@ SwarmNavigator/
 ## Methodology
 
 - **Environment:**  
-  Custom Python class simulates a 2D grid with configurable obstacles and agent spawning.  
+  Custom Python class simulates a 2-D grid with configurable obstacles and agent spawning.  
   Agents act in parallel, each choosing from five discrete actions (up, down, left, right, stay).
 
 - **Reward Structure:**  
